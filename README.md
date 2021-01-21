@@ -3,7 +3,7 @@
 ### Controllers---->```app/Http/Controllers```
 ### Respositories--->```app/repositories```
 ### Services ---->```app/services```
-### Recources API --->```app/Http/Resources````
+### Recources API --->```app/Http/Resources```
 ### Routes---->```routes/api.php```
 ### TAX Config File ---->```config/tax.php```
    * checkout database connection
